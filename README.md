@@ -7,7 +7,7 @@ _Para mais exemplos, consulte [css3](https://developer.mozilla.org/pt-BR/docs/We
 
 _Para mais exemplos, consulte [flexbox](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout/Flexbox)._
 
-![instagram1](img\instagram1.png)
+https://github.com/Viktorxzx/Instagram-Dio_/blob/main/img/instagram1.png
 
 ## Histórico de lançamentos
 
