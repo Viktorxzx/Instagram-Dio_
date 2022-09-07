@@ -7,13 +7,11 @@ _Para mais exemplos, consulte [css3](https://developer.mozilla.org/pt-BR/docs/We
 
 _Para mais exemplos, consulte [flexbox](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout/Flexbox)._
 
-![instagram1](C:\Users\User\Pictures\Screenshots\instagram1.png)
+![instagram1](C:\Users\User\Documents\Estudos_Programação\Instagram-Dio_desafio\instagram-dio-master\img\instagram1.png)
 
+![Instagram2](C:\Users\User\Documents\Estudos_Programação\Instagram-Dio_desafio\instagram-dio-master\img\Instagram2.png)
 
-
-![Instagram2](C:\Users\User\Pictures\Screenshots\Instagram2.png)
-
-![instagram3](C:\Users\User\Pictures\Screenshots\instagram3.png)
+![instagram3](C:\Users\User\Documents\Estudos_Programação\Instagram-Dio_desafio\instagram-dio-master\img\instagram3.png)
 
 ## Histórico de lançamentos
 
